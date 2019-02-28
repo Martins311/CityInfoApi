@@ -1,0 +1,14 @@
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\bin\Debug\netcoreapp2.2\CityInfo.deps.json
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\bin\Debug\netcoreapp2.2\CityInfo.runtimeconfig.json
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\bin\Debug\netcoreapp2.2\CityInfo.runtimeconfig.dev.json
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\bin\Debug\netcoreapp2.2\CityInfo.dll
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.csprojAssemblyReference.cache
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.RazorAssemblyInfo.cache
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.RazorAssemblyInfo.cs
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.AssemblyInfoInputs.cache
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.AssemblyInfo.cs
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.RazorTargetAssemblyInfo.cache
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\bin\Debug\netcoreapp2.2\CityInfo.pdb
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.dll
+D:\WorkSpace\Teste\API\CityInfoAPI\CityInfo\obj\Debug\netcoreapp2.2\CityInfo.pdb
